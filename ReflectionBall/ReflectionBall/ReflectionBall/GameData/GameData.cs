@@ -14,7 +14,7 @@ namespace ReflectionBall
         /// <summary>
         /// このゲームの制限時間
         /// </summary>
-        public const float LimitTime = 2.0f;
+        public const float LimitTime = 20.0f;
         /// <summary>
         /// ボールが一度に存在できる最大の数
         /// </summary>

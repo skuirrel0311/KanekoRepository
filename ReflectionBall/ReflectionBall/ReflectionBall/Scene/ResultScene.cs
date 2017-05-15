@@ -7,6 +7,7 @@ namespace ReflectionBall
     {
         Text[] textArray = new Text[4];
         MySoundEffect don, ddn, jan;
+        Text exitText;
 
         Timer intervalTimer;
         int currentIndex = 0;
@@ -48,6 +49,8 @@ namespace ReflectionBall
                 objList.Add(t);
             }
 
+            exitText = new Text(gameData, "click -> skip", new Vector2(1000.0f, 600.0f));
+            objList.Add(exitText);
 
             don = new MySoundEffect("Audio\\don", gameData);
             objList.Add(don);
@@ -90,6 +93,11 @@ namespace ReflectionBall
                     don.Play();
                 }
                 intervalTimer.ReStart();
+            }
+
+            if (!intervalTimer.isStart)
+            {
+                exitText.text = "click -> continue";
             }
             base.Update(gameTime);
         }

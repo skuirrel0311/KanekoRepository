@@ -63,7 +63,7 @@ namespace ReflectionBall
         {
             foreach (GameObject2D g in objList)
             {
-                Destroy(g);
+                g.UnLoad();
             }
         }
 
