@@ -10,6 +10,27 @@ namespace ReflectionBall
         bool isCalc = false;
 
         /// <summary>
+        /// 全体にかかるスコアの倍率
+        /// </summary>
+        const float totalDiameter = 100.0f;
+
+        /// <summary>
+        /// 玉をはじき返した回数にかかるスコアの倍率
+        /// </summary>
+        const float reflectPointDiameter = 5.0f;
+
+        /// <summary>
+        /// スピードボーナスにかかるスコアの倍率
+        /// </summary>
+        const float speedBounusDiameter = 3.0f;
+
+        /// <summary>
+        /// 最大速度にかかるスコアの倍率
+        /// </summary>
+        const float maxSpeedBounusDiameter = 20.0f;
+
+
+        /// <summary>
         /// ボールを弾き返した回数
         /// </summary>
         public int reflectCount { get; private set; }
@@ -31,10 +52,12 @@ namespace ReflectionBall
             {
                 if (!isCalc) return totalScore;
                 isCalc = false;
-                //todo:点数配分は要調整
-                totalScore += reflectCount * 1000;
-                totalScore += (int)speedBounus * 100;
-                totalScore += (int)maxSpeed * 1000;
+
+                float temp = 0.0f;
+                temp += reflectCount * reflectPointDiameter;
+                temp += speedBounus * speedBounusDiameter;
+                temp += maxSpeed * maxSpeedBounusDiameter;
+                totalScore =(int)(temp * totalDiameter);
 
                 return totalScore;
             }
