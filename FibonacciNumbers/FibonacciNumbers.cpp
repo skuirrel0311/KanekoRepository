@@ -6,36 +6,44 @@ int getFibonacciNumber(int num);
 
 int main()
 {
-	const int num = 16;
+	const int length = 30;
 
-	showFibonacciNumbers(num);
+	showFibonacciNumbers(length);
 }
 
-void showFibonacciNumbers(int num)
+void showFibonacciNumbers(int length)
 {
-	for (int i = 0; i <= num; i++)
+	for (int i = 0; i < length; i++)
 	{
-		getFibonacciNumber(i);
 		std::cout << getFibonacciNumber(i) << " ";
-	}
+		//適度に改行
+		if (i != 0 && i % 10 == 0) std::cout << '\n';
+	} 
+	std::cout << '\n';
 }
 
 int getFibonacciNumber(int num)
 {
 	//一つ前の数
-	int buf1 = 0;
+	int oneBefore = 0;
 	//2つ前の数
-	int buf2 = 0;
+	int twoBefore = 0;
 
 	int result = 0;
 
-	for (int i = 0; i <= num; i++)
+	if (num >= 1)
 	{
-		if (i <= 1) result = 1;
-		else result = buf1 + buf2;
+		result = 1;
+		oneBefore = 1;
+	}
 
-		buf2 = buf1;
-		buf1 = num;
+	for (int i = 1; i <= num; i++)
+	{
+		//直前の2項の和
+		result = oneBefore + twoBefore;
+
+		twoBefore = oneBefore;
+		oneBefore = result;
 	}
 
 	return result;

@@ -1,19 +1,19 @@
 #include <iostream>
 #include <string>
 
-void showFizzBazz(int num);
+void showFizzBazz(int maxNum);
 std::string getFizzBazz(int num);
 
 int main()
 {
-	const int num = 16;
+	const int maxNum = 16;
 
-	showFizzBazz(num);
+	showFizzBazz(maxNum);
 }
 
-void showFizzBazz(int num)
+void showFizzBazz(int maxNum)
 {
-	for (int i = 1; i <= num; i++)
+	for (int i = 1; i <= maxNum; i++)
 	{
 		std::cout << getFizzBazz(i) << '\n';
 	}
