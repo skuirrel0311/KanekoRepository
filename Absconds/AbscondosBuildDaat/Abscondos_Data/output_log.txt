@@ -7,34 +7,34 @@ Direct3D:
     VRAM:     2017 MB
     Driver:   21.21.13.7653
 Begin MonoManager ReloadAssembly
-Platform assembly: H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
-Loading H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
-Platform assembly: H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
-Loading H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
-Platform assembly: H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-Platform assembly: H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\XInputDotNetPure.dll (this message is harmless)
-Loading H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
-Platform assembly: H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\BehaviorDesignerRuntime.dll (this message is harmless)
-Loading H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\BehaviorDesignerRuntime.dll into Unity Child Domain
-Platform assembly: H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\DOTween.dll (this message is harmless)
-Loading H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\DOTween.dll into Unity Child Domain
-- Completed reload, in  0.050 seconds
-Platform assembly: H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: H:\Absconds\AbscondosBuildDaat\Abscondos_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\XInputDotNetPure.dll (this message is harmless)
+Loading C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\XInputDotNetPure.dll into Unity Child Domain
+Platform assembly: C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\BehaviorDesignerRuntime.dll (this message is harmless)
+Loading C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\BehaviorDesignerRuntime.dll into Unity Child Domain
+Platform assembly: C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\DOTween.dll into Unity Child Domain
+- Completed reload, in  0.028 seconds
+Platform assembly: C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\skuirrel\Desktop\AbscondosBuildDaat\Abscondos_Data\Managed\System.dll (this message is harmless)
 desktop: 1600x900 60Hz; virtual: 2960x900 at -1360,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 2.360999 ms
+UnloadTime: 2.453513 ms
 WwiseUnity: Initialize sound engine ...
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
@@ -43,5 +43,189 @@ WwiseUnity: Sound engine initialized.
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
 
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.344623 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2ea8 -> priority: 1 
+  Thread -> id: 25f0 -> priority: 1 
+
+Unloading 52 unused Assets to reduce memory usage. Loaded Objects now: 1336.
+Total: 0.805354 ms (FindLiveObjects: 0.065939 ms CreateObjectMapping: 0.071380 ms MarkObjects: 0.292885 ms  DeleteObjects: 0.374188 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.112614 ms
+
+Unloading 59 unused Assets to reduce memory usage. Loaded Objects now: 1179.
+Total: 0.473097 ms (FindLiveObjects: 0.056016 ms CreateObjectMapping: 0.037450 ms MarkObjects: 0.159086 ms  DeleteObjects: 0.220224 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.393714 ms
+lineRenderer is null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+lineRenderer is null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Callcut
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 3081.
+Total: 1.453862 ms (FindLiveObjects: 0.168689 ms CreateObjectMapping: 0.099228 ms MarkObjects: 1.167059 ms  DeleteObjects: 0.018565 ms)
+
+TimeOutBreak
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TransitionClamber
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+landing2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TransitionClamber
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TransitionClamber
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TransitionClamber
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Callcut
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TimeOutBreak
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TimeOutBreak
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TransitionClamber
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+landing2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+landing2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TransitionClamber
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TransitionClamber
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+landing2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TimeOutBreak
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+landing2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+landing2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TransitionClamber
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+landing2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TransitionClamber
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OpenDoor
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Callcut
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TimeOutBreak
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TransitionClamber
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+landing2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+landing2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TimeOutBreak
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+landing2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TransitionClamber
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+TransitionClamber
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+landing2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+landing
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+landing2
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.021969 ms
+65
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 261 unused Assets to reduce memory usage. Loaded Objects now: 1433.
+Total: 3.038963 ms (FindLiveObjects: 0.116833 ms CreateObjectMapping: 0.106591 ms MarkObjects: 1.039342 ms  DeleteObjects: 1.775236 ms)
+
+65
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+65
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
