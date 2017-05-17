@@ -1,0 +1,5 @@
+showFibonacciNumbersに渡す値がnumのままだと、
+どのような数を渡せば良いか分からないと思ったので、
+lengthに変更。
+getFibonacciNumber関数内で、
+1回やれば良い処理を何度もしていたので修正。
